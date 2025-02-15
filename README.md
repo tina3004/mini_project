@@ -93,16 +93,3 @@ Follow these steps to set up the project locally:
    - **Admin View**: Access the full order history for all users, with options to visualize data and export as PDF.
 8. **Advanced Reporting**: The admin panel includes visual reports on weekly, monthly, and yearly performance, offering insights into sales trends.
 
-## Recent Updates
-
-- **Order History**: 
-  - **User Order History**: Users can view their own order history.
-  - **Admin Order History**: Admins can access the complete order history for all users, streamlining record-keeping and inventory management.
-
-- **Recharts Integration**: Data visualization with `Recharts` enables users and admins to understand ordering trends and make data-driven decisions.
-
-- **PDF Generation**: Integrated `jspdf` allows users and admins to export order history as PDF files, useful for offline record-keeping and administrative purposes.
-
-## Contributing
-
-We welcome contributions! If you’d like to help improve this project, feel free to fork the repository and submit a Pull Request.
